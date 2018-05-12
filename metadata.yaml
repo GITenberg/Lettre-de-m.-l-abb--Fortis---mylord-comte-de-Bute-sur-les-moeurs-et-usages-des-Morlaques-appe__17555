@@ -1,0 +1,28 @@
+_repo: Lettre-de-m.-l-abb--Fortis---mylord-comte-de-Bute-sur-les-moeurs-et-usages-des-Morlaques-appe__17555
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fortis, Alberto
+    birthdate: 1741
+    deathdate: 1803
+    gutenberg_agent_id: '7451'
+    url: http://www.gutenberg.org/2009/agents/7451
+description: ''
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2006-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17555'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DB'
+- !lcsh 'Dalmatia (Croatia) -- Description and travel'
+title: Lettre de m. l'abbé Fortis à mylord comte de Bute, sur les moeurs et usages
+  des Morlaques, appellés Montenegrins
+url: http://www.gutenberg.org/ebooks/17555
